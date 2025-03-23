@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 23 15:09:14 2025
 
-@author: yemre
-"""
 
 # IU Finans Veri Analizi Projesi
 
